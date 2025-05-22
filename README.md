@@ -37,11 +37,11 @@ PyG Installation:
 
     For example, with pytorch=2.0.0 and CUDA 11.7:
 
-   ![image-20250518132313200](.\images\image-20250518132313200.png)
+   ![image-20250518132313200](images/image-20250518132313200.png)
 
    Install four dependencies: torch_scatter, torch_sparse, torch_cluster, torch_spline_conv:
 
-   ![image-20250518132559838](.\images\image-20250518132559838.png)
+   ![image-20250518132559838](images/image-20250518132559838.png)
 
    ```bash
    pip install torch_scatter -f https://pytorch-geometric.com/whl/torch-2.0.0%2Bcu117.html
