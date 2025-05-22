@@ -38,11 +38,11 @@ PyG的安装
 
    以pytorch=2.0.0，cuda版本11.7为例：
 
-   ![image-20250518132313200](.\images\image-20250518132313200.png)
+   ![image-20250518132313200](images/image-20250518132313200.png)
 
    安装四个依赖：torch_scatter、torch_sparse、torch_cluster、torch_spline_conv：
 
-   ![image-20250518132559838](.\images\image-20250518132559838.png)
+   ![image-20250518132559838](images/image-20250518132559838.png)
 
    ```bash
    pip install torch_scatter -f https://pytorch-geometric.com/whl/torch-2.0.0%2Bcu117.html
